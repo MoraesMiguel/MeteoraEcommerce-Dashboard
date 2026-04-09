@@ -40,6 +40,7 @@ Gerar insights
 Construir painéis informativos eficientes
 
 🖼️ Preview<br>
+
 ![MeteoraEcommerce-Dashboard](dashboard.png)
 
 📌 Aprendizados
